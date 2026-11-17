@@ -1,80 +1,70 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=180&section=header&text=Guilherme%20Garcia&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Florian%C3%B3polis%2C%20Brazil&descAlignY=55&descSize=16" width="100%" alt="header" />
 
-<p align="left">My name is Guilherme and I'm a developer, from Florianópolis, SC, Brazil.</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=560&lines=Hey+%F0%9F%91%8B+What's+up%3F;Creating+bugs+since+2017+%F0%9F%90%9B;Pen+plotters+%E2%9C%8F%EF%B8%8F+%26+laser+machines+%F0%9F%94%A5;...and+a+lot+of+other+side+projects+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-###
+<br/>
 
-<h2 align="left">About me</h2>
+<a href="https://www.linkedin.com/in/guilherme-wilm-garcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/gwgarcia21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=gwgarcia21&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile views" />
 
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Angular and PostgreSQL<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
+---
+
+### 🧑‍💻 About me
+
+```ts
+const guilherme = {
+  location:    "Florianópolis, SC — Brazil 🇧🇷",
+  codingSince: 2017,
+  stack:       ["C#", "Python", "Angular"],
+  obsessions:  ["pen plotters ✏️", "laser machines 🔥"],
+  alsoBuilds:  "pretty much anything that sounds fun 🛠️",
+  pairsWith:   "Claude Code 🤖",
+  goals:       "...",        // TODO
+  funFact:     "...",        // TODO
+};
+```
+
+> Most of my free time goes into **machines that draw and cut**: pen plotters and laser machines.
+> Hardware, firmware, software, whatever the project needs. But I can't help starting new projects
+> in completely different areas too. 😅
+
+### 🛠️ I code with
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,angular&theme=dark" alt="C#, Python, Angular" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Built with Claude Code" />
+</p>
+
+### 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gwgarcia21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gwgarcia21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gwgarcia21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gwgarcia21&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gwgarcia21&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=gwgarcia21&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gwgarcia21&radius=16&theme=dracula&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
-###
+### 🐍 Eating my contributions
 
-<img src="https://raw.githubusercontent.com/gwgarcia21/gwgarcia21/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gwgarcia21/gwgarcia21/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-wilm-garcia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gwgarcia21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### ✏️ Florentia Plotter
 
-###
-
-<h2 align="left">Florentia Plotter</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/florentia.plotter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+  My pen plotter project. Check out the website and follow along:
+  <br/><br/>
+  <a href="https://florentia-plotter.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-florentia--plotter-bd93f9?style=for-the-badge&logo=netlify&logoColor=white" alt="Florentia Plotter website" /></a>
+  <a href="https://www.instagram.com/florentia.plotter/" target="_blank"><img src="https://img.shields.io/badge/@florentia.plotter-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Florentia Plotter on Instagram" /></a>
